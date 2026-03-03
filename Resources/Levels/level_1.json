@@ -1,0 +1,21 @@
+{
+  "gridRowCount": 4,
+  "gridColCount": 4,
+  "totalMines": 2,
+  "mineGrids": [
+    { "x": 1, "y": 0 },
+    { "x": 3, "y": 1 }
+  ],
+  "unknownRegions": [
+    { "startX": 0, "startY": 0, "endX": 1, "endY": 1 },
+    { "startX": 3, "startY": 1, "endX": 3, "endY": 1 }
+  ],
+  "placeableGrids": [
+    { "x": 2, "y": 2 },
+    { "x": 3, "y": 0 }
+  ],
+  "availableNumbers": [
+    { "value": 1, "count": 2 },
+    { "value": 2, "count": 1 }
+  ]
+}
