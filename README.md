@@ -1,0 +1,2 @@
+# MineMarker-2DUnityPuzzleGameDemo
+一个基于扫雷玩法的小游戏，玩家知道总雷数和雷区，需要在特定格子填入正确数字表示附近的雷数。
